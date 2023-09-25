@@ -1,4 +1,4 @@
-## Descirpción 
+## Descripción 
 
 Plataforma web para administrar las citas de un Gimnasio de artes marciales.
 
